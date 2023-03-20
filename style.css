@@ -1,0 +1,46 @@
+#startingpage {
+    background-color:tan ;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique; 
+    font-size: 200%;
+  }
+  
+  #bla {
+    width: 600px;
+  }
+  
+  #heading1 {
+    background-color: tan;
+  }
+  
+  #startingbutton {
+    background-color: lightcoral;
+    width: 400px;
+    height: 150px;
+  }
+  
+  #arrow {
+    rotate: 180deg;
+    translate: 170px;
+    width: 80px;
+  }
+  
+  .emotionbutton {
+    background-color: mintcream;
+    width: 150px; 
+    height: 60px;
+  }
+  #noo {
+    color: blue;
+  }
+  #mainpage {
+    background-color: lime;
+  }
